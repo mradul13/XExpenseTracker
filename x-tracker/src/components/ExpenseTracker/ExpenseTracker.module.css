@@ -1,0 +1,8 @@
+.dashboard_section{
+    height: 17rem;
+    background: #626262;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+}
